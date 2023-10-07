@@ -1,6 +1,6 @@
 # Embedded-Systems-Programming
 
-> [!NOTE]
+> [!NOTE]  
 > __File:__ _`Project Schematics.fzz`_  
 > This is a typical breadboard and schematic representation for the project, designed with [Fritzing](https://fritzing.org).
 >
